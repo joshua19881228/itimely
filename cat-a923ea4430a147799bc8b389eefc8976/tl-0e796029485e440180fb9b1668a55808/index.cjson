@@ -1,7 +1,11 @@
 {
+  "color" : "green",
+  "modified_at" : "1712533517770",
   "desc" : "yes",
-  "deleted" : "no",
-  "color" : "red",
   "title" : "JOSHUA的时间轴",
-  "modified_at" : "1694944845149"
+  "modified_by_device" : "iPhone",
+  "collapsed_keys" : "",
+  "group_by" : "month",
+  "modified_at_date" : "2024-04-07 23:04:13",
+  "deleted" : "no"
 }

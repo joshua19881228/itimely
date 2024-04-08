@@ -1,6 +1,21 @@
 {
-  "旅程_color" : "purple",
+  "碎片_color" : "green",
+  "文娱_color" : "yellow",
+  "碎片\/种花_color" : "green",
+  "modified_at_date" : "2024-04-07 23:09:50",
+  "旅程\/出差_color" : "purple",
+  "文娱\/戏剧_color" : "yellow",
+  "生活\/电影_color" : "#4C204B",
+  "碎片\/生活_color" : "green",
+  "旅程_color" : "#5E2249",
+  "生活\/音乐剧_color" : "#3F1138",
+  "文娱\/电影_color" : "yellow",
   "杂想_color" : "green",
+  "文娱\/演出_color" : "yellow",
+  "旅程\/博物馆_color" : "purple",
+  "modified_by_device" : "iPhone",
+  "旅程\/闲逛_color" : "#1B6CC1",
   "生活_color" : "blue",
-  "modified_at" : "1695081104331"
+  "modified_at" : "1712504799502",
+  "碎片\/杂想_color" : "green"
 }
